@@ -66,7 +66,7 @@ This project demonstrates how Excel SUMIFS formulas can simplify sales reporting
 
 #### Work2
 
-# Excel Sales Analysis Using SUMIFS
+# Excel Inventory Analysis Using SUMIFS
 
 ## Work Overview
 This project demonstrates the use of the **SUMIFS function in Microsoft Excel** to analyze inventory data and calculate totals using multiple criteria.
