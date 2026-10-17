@@ -62,9 +62,11 @@ Assuming the dataset is in columns A:F, with headers in row 1 and data in rows 2
 This project demonstrates how Excel SUMIFS formulas can simplify sales reporting and support data-driven decision-making by summarizing sales across different business categories.
 # Excel Inventory Analysis Using SUMIFS
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Work2
+
+# Excel Sales Analysis Using SUMIFS
 
 ## Work Overview
 This project demonstrates the use of the **SUMIFS function in Microsoft Excel** to analyze inventory data and calculate totals using multiple criteria.
